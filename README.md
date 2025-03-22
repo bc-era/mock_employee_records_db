@@ -5,7 +5,7 @@ A structured SQL database designed to manage employee records, including departm
 ## Features
 - Structured tables: Departments, Employees, Salaries  
 - SQL scripts for table creation and data insertion  
-- Foreign keys to maintain referential integrity  
+- Relational schema with foreign key constraints  
 - Scalable design for future expansion  
 
 ## Project Files
