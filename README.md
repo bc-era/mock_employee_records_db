@@ -26,9 +26,3 @@ A structured SQL database designed to manage employee records, including departm
    ```sql
    SELECT * FROM Employees;
 
-### What to Do Next:  
-1. Create a new file in your repo named `README.md`.  
-2. Copy and paste the above text.  
-3. **Save and commit** the file in GitHub Desktop.  
-4. **Push** to GitHub.  
-
